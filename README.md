@@ -9,7 +9,7 @@
 ## 👨‍💻 Developed by  
 Virat Kumar
 
-![Alt text]([path/to/image.png](https://github.com/ViratKumarr/Iphone_Website/blob/69b287943578a4c4a7fb6e447f17d7679e41a836/Screenshot%202025-05-24%20230931.png))
+![Alt text](https://github.com/ViratKumarr/Iphone_Website/blob/5dd20cd6ea0910149aea380156bd5323dde87fad/Screenshot%202025-05-24%20230931.png)
 
 
 ## 📋 <a name="table">Table of Contents</a>

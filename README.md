@@ -9,6 +9,9 @@
 ## 👨‍💻 Developed by  
 Virat Kumar
 
+![Alt text](path/to/image.png)
+
+
 ## 🔗 Social Links
 
 - [LinkedIn](https://www.linkedin.com/in/virat-kumar-b0b57024a/)

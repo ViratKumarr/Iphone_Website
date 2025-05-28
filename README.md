@@ -51,6 +51,8 @@ This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS.
 
 and many more, including code architecture and reusability 
 
+![Alt text](https://github.com/ViratKumarr/Iphone_Website/blob/fb2be40eb842f5fec27f092518ebaf37b098a635/Screenshot%202025-05-24%20231042.png)
+
 ## <a name="quick-start">🤸 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.

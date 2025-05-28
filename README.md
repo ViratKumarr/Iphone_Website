@@ -9,15 +9,8 @@
 ## 👨‍💻 Developed by  
 Virat Kumar
 
-![Alt text](path/to/image.png)
+![Alt text]([path/to/image.png](https://github.com/ViratKumarr/Iphone_Website/blob/69b287943578a4c4a7fb6e447f17d7679e41a836/Screenshot%202025-05-24%20230931.png))
 
-
-## 🔗 Social Links
-
-- [LinkedIn](https://www.linkedin.com/in/virat-kumar-b0b57024a/)
-- [GitHub](https://github.com/ViratKumarr)
-- [Twitter](https://x.com/___ViRaT____)
-- [Instagram](https://www.instagram.com/___virat_chaudhary___)
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -89,6 +82,13 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
+## 🔗 Social Links
+
+- [LinkedIn](https://www.linkedin.com/in/virat-kumar-b0b57024a/)
+- [GitHub](https://github.com/ViratKumarr)
+- [Twitter](https://x.com/___ViRaT____)
+- [Instagram](https://www.instagram.com/___virat_chaudhary___)
 
 ## <a name="snippets">🕸️ Snippets</a>
 

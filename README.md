@@ -37,6 +37,8 @@ This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS.
 - Vite
 - Tailwind CSS
 
+![Alt text](https://github.com/ViratKumarr/Iphone_Website/blob/0004f5a5abfdf8ae89067e94828703b7caeac478/Screenshot%202025-05-24%20231020.png)
+
 ## <a name="features">🔋 Features</a>
 
 👉 **Beautiful Subtle Smooth Animations using GSAP**: Enhanced user experience with seamless and captivating animations powered by GSAP.

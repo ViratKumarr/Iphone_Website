@@ -20,6 +20,9 @@ const Footer = () => {
           <p className="font-semibold text-gray text-xs">
             Or call 000800-040-1966
           </p>
+          <p className="font-semibold text-gray text-xs mt-2">
+            Contact Developer: Virat Kumar | Phone: 8340694346
+          </p>
         </div>
 
         <div className="bg-neutral-700 my-5 h-[1px] w-full" />

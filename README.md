@@ -1,4 +1,6 @@
-
+<p align="left">
+  © Virat Kumar 2025 | Built with ❤️
+</p>
 
 <div align="center">
   <br />
